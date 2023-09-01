@@ -1,0 +1,40 @@
+/* edit.css */
+
+/* Container styling */
+.edit-container {
+    background-color: #f2f2f2; /* Light gray background color */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a card-like appearance */
+  }
+  
+  /* Heading styling */
+  .edit-heading {
+    color: #333; /* Dark gray text color */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Table styling */
+  .edit-table {
+    width: 100%;
+  }
+  
+  .edit-table td {
+    padding: 10px;
+  }
+  
+  /* Button styling */
+  .edit-button {
+    background-color: #007bff; /* Blue background color */
+    color: #fff; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .edit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
